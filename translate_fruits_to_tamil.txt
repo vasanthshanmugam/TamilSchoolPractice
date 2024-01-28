@@ -1,0 +1,10 @@
+Translate the following fruits to Tamil
+
+1. Apple
+2. Guava
+3. Mango
+4. Sugarcane
+5. Strawberry
+6. Orange
+7. Lemon
+8. Sweet potato
