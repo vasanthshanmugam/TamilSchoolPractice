@@ -1,0 +1,13 @@
+Family relations
+
+Mother
+Father
+Sister
+Brother
+Grand father
+Grand mother
+Cousin
+Neice
+Nephew
+Uncle
+Aunt
